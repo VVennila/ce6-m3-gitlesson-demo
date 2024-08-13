@@ -1,4 +1,4 @@
-# ce6-m3-gitlesson-demo
+# ce6-m3-gitlesson-demo-branch
 Editing to practice git pull
 1. git clone
 2. git pull
