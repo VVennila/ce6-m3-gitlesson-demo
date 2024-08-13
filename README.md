@@ -6,3 +6,5 @@ Editing to practice git pull
 4. git status
 5. git commit / git commit -m "commit message"
 6. git push
+7. git diff
+8. git reset --hard
