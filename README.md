@@ -1,4 +1,4 @@
-# ce6-m3-gitlesson-demo-branch
+# ce6-m3-gitlesson-demo
 Editing to practice git pull
 1. git clone
 2. git pull
@@ -15,3 +15,5 @@ Editing to practice git pull
 13. git checkout <name of a banch to be work on> to change branches to work
 14. gti checkout -b <branch-name> create new branch and switch back to that created branch
 15. git push --set-upstream origin <branch-name> =>to push the new branch
+16.
+17. just to check commit
